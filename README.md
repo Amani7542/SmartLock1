@@ -1,4 +1,4 @@
-# Servo Door Lock System
+# Door Lock System
 
 ## Project Description
 The Servo Door Lock System is a secure and efficient solution for controlling door access using a servo motor and a keypad. It is powered by an Arduino Uno and can operate on a portable power source. The system allows users to unlock the door by entering a predefined 4-digit password. If the password is correct, the servo motor rotates to release the bolt lock mechanism, allowing access. The system automatically re-locks after 5 seconds.
@@ -9,7 +9,7 @@ The Servo Door Lock System is a secure and efficient solution for controlling do
 - **Password-based Door Locking**: Users enter a 4-digit password to unlock the door.
 - **Servo Motor Control**: Controls the bolt lock mechanism using a servo motor connected with steel wire.
 - **Automatic Re-locking**: Re-locks the door after 5 seconds of unlocking.
-- **Portable Power**: Operates using a power bank for flexibility and portability.
+- **Portable Power**: Operates using a 9v batteries for flexibility and portability.
 
 ---
 
@@ -22,7 +22,7 @@ The Servo Door Lock System is a secure and efficient solution for controlling do
 - **Power Bank**: Provides power to the system.
 - **Connecting Wires and Breadboard**: For wiring and prototyping.
 ### Software
-**Arduino IDE**: For writing and uploading the code to the microcontroller.
+- **Arduino IDE**: For writing and uploading the code to the microcontroller.
 ---
 
 
